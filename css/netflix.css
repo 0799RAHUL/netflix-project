@@ -243,8 +243,10 @@ position: absolute;
     width: 500px;
     background-repeat: no-repeat;
 }
+
 /* lastblock
  */
+ 
  .lastblock{
     background-color: black;
    
@@ -323,6 +325,7 @@ position: absolute;
 .tab a{
     color: white;
 }
+
 
 
 
